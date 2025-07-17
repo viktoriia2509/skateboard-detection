@@ -1,0 +1,7 @@
+gradio
+ultralytics
+opencv-python
+numpy
+reportlab
+openpyxl
+Pillow
